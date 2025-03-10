@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 💻 Desenvolvedor Full-Stack.
-- 🌱 Aprendendo [HTML CSS, JS, PYTON,].
+- 🌱 Aprendendo [HTML CSS, JS, PYTON, SYBER SEGURITY].
 - 🚀 Projetos em destaque: [Ainda não tenho ].
 
 ## Habilidades
